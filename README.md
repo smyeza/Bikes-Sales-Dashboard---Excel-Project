@@ -8,15 +8,17 @@
 - [Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/findings](#results/findings)
+- [Results/Findings](#results/findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
 
 
 
-### Project Overview.
+### Project Overview
 This data analysis project aims to provide insights into the average income of customers that purchase bikes across the various regions that our stores are located in.
+
+<img width="1041" height="681" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/a1980223-d478-4a6a-953f-511ec3d56ecb" />
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "Bike Project Dataset.xlsx" file containing detailed information about each bike sale made by the company.
